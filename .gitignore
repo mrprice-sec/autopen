@@ -1,0 +1,9 @@
+outputs/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.json
+*.log
+.DS_Store
+/tmp/

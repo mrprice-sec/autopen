@@ -1,0 +1,12 @@
+model:
+  provider: ollama
+  name: qwen2.5:3b
+  base_url: http://localhost:11434
+
+agent:
+  max_iterations: 25
+  summariser_max_tokens: 500
+  verbose: false
+
+output:
+  dir: outputs/
