@@ -241,6 +241,6 @@ output:
 
 ## Author
 
-**Mr Price** — [@mrprice-sec](https://github.com/mrprice-sec)
+**Odigili Treasure C.** — [@mrprice-sec](https://github.com/mrprice-sec)
 
 *Final Year Project — Autonomous AI-Driven Penetration Testing*
